@@ -14,3 +14,8 @@ If you use this dataset for experiments, please cite the following publication:
   note = {doi: \href{https://dx.doi.org/10.1109/TCSVT.2024.3448615}{\textcolor{blue}{10.1109/TCSVT.2024.3448615}}}
 }
 ```
+
+## Download
+- Event Data: [[OneDrive](https://portland-my.sharepoint.com/:u:/g/personal/boxie4-c_my_cityu_edu_hk/EdmGnx2bkd5Atoth7IEsApEBueqBHct7YGXB1UOcoarNLg?e=Pk6DLR)]
+- RGB Images: to be uploaded
+- Depth Images: to be uploaded
