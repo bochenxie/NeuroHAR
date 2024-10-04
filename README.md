@@ -1,6 +1,6 @@
 # [IEEE TCSVT 2024] Neuromorphic Human Action Recognition Dataset (NeuroHAR)
 
-The NeuroHAR dataset is constructed by the Robot Vision Research Laboratory at City University of Hong Kong. For more details, please read out IEEE TCSVT paper '[Event Voxel Set Transformer for Spatiotemporal Representation Learning on Event Streams](https://ieeexplore.ieee.org/document/10644034)'.
+The NeuroHAR dataset is constructed by the Robot Vision Research Laboratory at City University of Hong Kong. For more details, please read our IEEE TCSVT paper '[Event Voxel Set Transformer for Spatiotemporal Representation Learning on Event Streams](https://ieeexplore.ieee.org/document/10644034)'.
 
 If you use this dataset for experiments, please cite the following publication:
 
